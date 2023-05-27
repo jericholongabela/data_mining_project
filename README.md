@@ -1,1 +1,3 @@
-# data_mining_project
+# Data Mining Project
+
+All codes and files will be found here
